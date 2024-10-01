@@ -1,0 +1,16 @@
+UNREAL BUGS
+- no detection for collision for dropped actors
+- quest reward UI doesnt show text
+- Quest NPC shows quest after completion
+- double clicking the quest duplicates the objective information
+- jetpack only refills when on screen (Maybe bc it isnt removed??)
+- switching MAIN UIs (Quest and inventory) doesnt keep the game paused. 
+----Can also open duplicates of UI
+----Quest Screen still relies on button to close
+
+THINGS TO DO:
+
+MIGRATEEEEEE LAST THING TO DO
+
+
+
